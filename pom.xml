@@ -22,7 +22,7 @@
 		<spring-cloud.version>Finchley.M9</spring-cloud.version>
 		<junit.version>4.12</junit.version>
 		<spring.version>5.0.7.RELEASE</spring.version>
-		<spring-data-jpa.version>2.0.8.RELEASE</spring-data-jpa.version>
+		<spring-data-jpa.version>2.1.0.RELEASE</spring-data-jpa.version>
 		<hibernate.version>5.2.9.Final</hibernate.version>
 		<javax.persistence.version>2.2</javax.persistence.version>
 		<persistence-api.version>1.0.2</persistence-api.version>
